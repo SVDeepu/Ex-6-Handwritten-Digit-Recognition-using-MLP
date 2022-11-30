@@ -19,9 +19,9 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ### Program:
 
-#### Developed by:B S SAIHARSHITHA
+#### Developed by:SV.DEEPIKA
 
-#### Registration number:212220040139
+#### Registration number:212220040161
 
 ```
 import numpy as np
